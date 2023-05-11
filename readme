@@ -1,0 +1,7 @@
+8.jpeg: for quantize
+test.jpg: for detect demo
+dataset.txt for quantizie
+onnx_detect.py use onnx mode to inference demo
+onnx2rknn.py trans onnx to rknn model
+static_det.onnx static input model on onnx
+static_det.rknn static input model trans from onnx
